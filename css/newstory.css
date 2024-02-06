@@ -1,0 +1,40 @@
+/* lichaam van de webpage  */
+body{
+    background-color: #cccccc !important;
+}
+/* de h2 boven de text area*/
+#title{
+    text-align: center;
+    color: white;
+}
+
+/* de area waar de user hun verhaal gaat typen*/
+textarea{
+    text-align: center;
+    background:white;
+    width: 100%;
+    height: 100%;
+    color: black    ;
+}
+/*kolom*/
+.col-sm-12{
+    
+    background-color: white;
+    
+
+}
+/* De reden waarom het gecentreerd is */
+#wrapper{
+    width: 960px;
+    margin: 0 auto 0 auto;
+}
+
+#wrapper, input[type="submit"]{
+    color: black;
+    background:  #fca03d;
+               
+}
+
+#submit{
+    text-align: center;
+}

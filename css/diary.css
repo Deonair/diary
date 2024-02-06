@@ -1,0 +1,14 @@
+/* lichaam van de webpage  */
+body{
+    background-color: #cccccc !important;
+}
+/* Het gedeelte waarin de tekst zich bevind */
+.container{
+    background: white;
+    padding-top: 3rem;
+    
+}
+/* de h1 in de container */
+.container h1{
+    text-align: center;
+}

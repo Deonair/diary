@@ -1,0 +1,28 @@
+/*lichaam van de page */
+body{
+    background-color: #cccccc !important;
+}
+/* h1 tekst op de we page  */
+h1{
+    text-align: center;
+}
+
+/* kolommen op de page*/
+.col-sm{
+    background: white;
+    padding : 60px;
+    margin-right:25px;
+}
+
+.row{
+    text-align: center;
+}
+
+/*link naar andere webpages*/
+a{
+    color: #fca03d;
+}
+
+img{
+    z-index: 1;
+}
